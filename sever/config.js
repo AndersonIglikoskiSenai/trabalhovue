@@ -1,4 +1,4 @@
 module.exports = {
-    dbURI: 'mongodb+srv://emanoelsp:em23mano12@vue-landing-page.zmb1x.mongodb.net/?retryWrites=true&w=majority&appName=vue-landing-page',
+    dbURI: 'mongodb+srv://anderson:Rt676744@cluster0.hidum9u.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0',
     jwtSecret: 'seu-segredo-jwt',
 };
